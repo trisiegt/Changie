@@ -1,0 +1,6 @@
+The username and password are both "admin" without the quotation marks.
+
+The program requires Visual Basic 5.0
+
+
+Pronounced sh-anne-geey
